@@ -3,3 +3,4 @@ Planning by Utsav
 
 Start with Java * problme solving 
 Go through SpringBoot Project
+i need to work smarter ..world is very fast moving
